@@ -19,5 +19,5 @@ You must have **Python 3.x** installed on your system.
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/socialmania99/crypto-flap-pygame.git](https://github.com/socialmania99/crypto-flap-pygame.git)
+git clone https://github.com/Socialmania99/crypto-flappy-bird.git
 cd crypto-flap-pygame
